@@ -100,7 +100,7 @@ Technologies Used:
 JavaScript | HTML | CSS | TensorFlow.js
 
 🔗 GitHub Repository
-https://github.com/your-username/Hand-Gesture-Recognition
+https://github.com/Ramakrishna35543/Gesture-Detection-project
 🙌 Acknowledgements
 TensorFlow.js
 Fingerpose
